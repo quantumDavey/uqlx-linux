@@ -10,3 +10,5 @@ Automatically exported from code.google.com/p/uqlx-linux
 //  I hope.
 
 //  As yet no work done on this, just a place holder
+
+//  Once this branch is complete, it will be moved over as the main branch to MacQL.
